@@ -1,14 +1,9 @@
 public class FactoryMethodPattern {
-
-    // Document interface
     interface Document {
         void open();
     }
 
-    // Concrete document classes
-
     static class WordDocument implements Document {
-
         public void open() {
             System.out.println("Word document created.");
         }
