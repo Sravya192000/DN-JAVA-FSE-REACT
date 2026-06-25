@@ -108,7 +108,7 @@ class InventoryManager {
     }
 }
 
-public class InventoryManagementSystem {
+public class inventory {
 
     public static void main(String[] args) {
 
