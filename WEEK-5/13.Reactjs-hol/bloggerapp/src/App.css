@@ -1,0 +1,27 @@
+.container{
+    display:flex;
+    justify-content:space-evenly;
+    margin-top:50px;
+}
+
+.column{
+    width:30%;
+    padding:20px;
+    border-right:4px solid green;
+}
+
+.column:last-child{
+    border-right:none;
+}
+
+h1{
+    font-size:40px;
+}
+
+h2{
+    font-size:22px;
+}
+
+p{
+    font-size:18px;
+}
