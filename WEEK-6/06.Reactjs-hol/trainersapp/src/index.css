@@ -1,0 +1,23 @@
+body {
+    font-family: Arial;
+    margin: 20px;
+}
+
+nav a {
+    text-decoration: none;
+    margin-right: 15px;
+    font-weight: bold;
+}
+
+nav a:hover {
+    color: blue;
+}
+
+ul {
+    list-style: none;
+    padding: 0;
+}
+
+li {
+    margin: 10px 0;
+}
